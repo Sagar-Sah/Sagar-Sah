@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  I build AI systems that go beyond demos — reliable retrieval, clean backend architecture,
+  I build AI systems that go beyond demos with reliable retrieval, clean backend architecture,
   multi-step automation, scalable APIs, and practical AI products for real business workflows.
 </p>
 
 <p align="center">
   <a href="https://anonsagar.com">Website</a> •
   <a href="https://twitter.com/Anonsagar">X / Twitter</a> •
-  <a href="mailto:YOUR_EMAIL_HERE">Contact</a>
+  <a href="sahsagar564@gmail.com">Contact</a>
 </p>
 
 ---
