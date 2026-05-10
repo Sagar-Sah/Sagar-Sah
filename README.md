@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://anonsagar.com">Website</a> •
-  <a href="https://twitter.com/Anonsagar">X / Twitter</a> •
+  <a href="https://twitter.com/Anonsagar">X(Formerly Twitter)</a> •
   <a href="sahsagar564@gmail.com">Contact</a>
 </p>
 
